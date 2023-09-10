@@ -1,0 +1,12 @@
+#first {
+    border-radius: 10px;
+
+}
+.main {
+    border-radius: 16px;
+}
+.a1{
+    border:2px solid rgb(151, 204, 50);
+    width: 30px;
+    height: 2px;
+}
